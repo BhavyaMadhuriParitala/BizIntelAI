@@ -1,0 +1,281 @@
+product_name,forecast_date,predicted_demand,test_mae
+Rice 5kg,2026-09-28,3,2.33
+Rice 5kg,2026-09-29,3,2.33
+Rice 5kg,2026-09-30,3,2.33
+Rice 5kg,2026-10-01,4,2.33
+Rice 5kg,2026-10-02,5,2.33
+Rice 5kg,2026-10-03,6,2.33
+Rice 5kg,2026-10-04,5,2.33
+Wheat Flour 5kg,2026-09-28,6,1.36
+Wheat Flour 5kg,2026-09-29,4,1.36
+Wheat Flour 5kg,2026-09-30,5,1.36
+Wheat Flour 5kg,2026-10-01,4,1.36
+Wheat Flour 5kg,2026-10-02,4,1.36
+Wheat Flour 5kg,2026-10-03,5,1.36
+Wheat Flour 5kg,2026-10-04,4,1.36
+Sugar 1kg,2026-09-28,3,1.68
+Sugar 1kg,2026-09-29,4,1.68
+Sugar 1kg,2026-09-30,5,1.68
+Sugar 1kg,2026-10-01,4,1.68
+Sugar 1kg,2026-10-02,2,1.68
+Sugar 1kg,2026-10-03,4,1.68
+Sugar 1kg,2026-10-04,3,1.68
+Cooking Oil 1L,2026-09-28,6,1.78
+Cooking Oil 1L,2026-09-29,5,1.78
+Cooking Oil 1L,2026-09-30,5,1.78
+Cooking Oil 1L,2026-10-01,3,1.78
+Cooking Oil 1L,2026-10-02,6,1.78
+Cooking Oil 1L,2026-10-03,5,1.78
+Cooking Oil 1L,2026-10-04,5,1.78
+Tea Powder 250g,2026-09-28,2,1.69
+Tea Powder 250g,2026-09-29,2,1.69
+Tea Powder 250g,2026-09-30,4,1.69
+Tea Powder 250g,2026-10-01,5,1.69
+Tea Powder 250g,2026-10-02,4,1.69
+Tea Powder 250g,2026-10-03,3,1.69
+Tea Powder 250g,2026-10-04,5,1.69
+Coffee 200g,2026-09-28,2,1.74
+Coffee 200g,2026-09-29,4,1.74
+Coffee 200g,2026-09-30,3,1.74
+Coffee 200g,2026-10-01,2,1.74
+Coffee 200g,2026-10-02,2,1.74
+Coffee 200g,2026-10-03,1,1.74
+Coffee 200g,2026-10-04,2,1.74
+Biscuits Pack,2026-09-28,7,1.71
+Biscuits Pack,2026-09-29,6,1.71
+Biscuits Pack,2026-09-30,6,1.71
+Biscuits Pack,2026-10-01,5,1.71
+Biscuits Pack,2026-10-02,5,1.71
+Biscuits Pack,2026-10-03,9,1.71
+Biscuits Pack,2026-10-04,7,1.71
+Noodles Pack,2026-09-28,5,1.45
+Noodles Pack,2026-09-29,4,1.45
+Noodles Pack,2026-09-30,5,1.45
+Noodles Pack,2026-10-01,5,1.45
+Noodles Pack,2026-10-02,7,1.45
+Noodles Pack,2026-10-03,6,1.45
+Noodles Pack,2026-10-04,8,1.45
+Milk 1L,2026-09-28,7,2.49
+Milk 1L,2026-09-29,7,2.49
+Milk 1L,2026-09-30,6,2.49
+Milk 1L,2026-10-01,6,2.49
+Milk 1L,2026-10-02,6,2.49
+Milk 1L,2026-10-03,11,2.49
+Milk 1L,2026-10-04,10,2.49
+Bread,2026-09-28,7,1.64
+Bread,2026-09-29,6,1.64
+Bread,2026-09-30,6,1.64
+Bread,2026-10-01,5,1.64
+Bread,2026-10-02,5,1.64
+Bread,2026-10-03,4,1.64
+Bread,2026-10-04,5,1.64
+Eggs Pack,2026-09-28,6,2.01
+Eggs Pack,2026-09-29,7,2.01
+Eggs Pack,2026-09-30,5,2.01
+Eggs Pack,2026-10-01,6,2.01
+Eggs Pack,2026-10-02,7,2.01
+Eggs Pack,2026-10-03,8,2.01
+Eggs Pack,2026-10-04,7,2.01
+Soap,2026-09-28,4,2.63
+Soap,2026-09-29,4,2.63
+Soap,2026-09-30,4,2.63
+Soap,2026-10-01,6,2.63
+Soap,2026-10-02,4,2.63
+Soap,2026-10-03,7,2.63
+Soap,2026-10-04,6,2.63
+Shampoo,2026-09-28,3,1.44
+Shampoo,2026-09-29,3,1.44
+Shampoo,2026-09-30,3,1.44
+Shampoo,2026-10-01,3,1.44
+Shampoo,2026-10-02,3,1.44
+Shampoo,2026-10-03,3,1.44
+Shampoo,2026-10-04,4,1.44
+Toothpaste,2026-09-28,2,1.7
+Toothpaste,2026-09-29,4,1.7
+Toothpaste,2026-09-30,4,1.7
+Toothpaste,2026-10-01,4,1.7
+Toothpaste,2026-10-02,4,1.7
+Toothpaste,2026-10-03,3,1.7
+Toothpaste,2026-10-04,4,1.7
+Toothbrush,2026-09-28,2,0.66
+Toothbrush,2026-09-29,2,0.66
+Toothbrush,2026-09-30,4,0.66
+Toothbrush,2026-10-01,3,0.66
+Toothbrush,2026-10-02,3,0.66
+Toothbrush,2026-10-03,3,0.66
+Toothbrush,2026-10-04,5,0.66
+Detergent 1kg,2026-09-28,3,2.03
+Detergent 1kg,2026-09-29,2,2.03
+Detergent 1kg,2026-09-30,4,2.03
+Detergent 1kg,2026-10-01,4,2.03
+Detergent 1kg,2026-10-02,3,2.03
+Detergent 1kg,2026-10-03,4,2.03
+Detergent 1kg,2026-10-04,4,2.03
+Dishwash,2026-09-28,3,1.55
+Dishwash,2026-09-29,2,1.55
+Dishwash,2026-09-30,3,1.55
+Dishwash,2026-10-01,3,1.55
+Dishwash,2026-10-02,3,1.55
+Dishwash,2026-10-03,3,1.55
+Dishwash,2026-10-04,3,1.55
+Handwash,2026-09-28,3,1.73
+Handwash,2026-09-29,3,1.73
+Handwash,2026-09-30,2,1.73
+Handwash,2026-10-01,2,1.73
+Handwash,2026-10-02,3,1.73
+Handwash,2026-10-03,6,1.73
+Handwash,2026-10-04,5,1.73
+Face Wash,2026-09-28,1,1.12
+Face Wash,2026-09-29,2,1.12
+Face Wash,2026-09-30,3,1.12
+Face Wash,2026-10-01,2,1.12
+Face Wash,2026-10-02,1,1.12
+Face Wash,2026-10-03,2,1.12
+Face Wash,2026-10-04,2,1.12
+Body Lotion,2026-09-28,2,1.16
+Body Lotion,2026-09-29,2,1.16
+Body Lotion,2026-09-30,2,1.16
+Body Lotion,2026-10-01,3,1.16
+Body Lotion,2026-10-02,2,1.16
+Body Lotion,2026-10-03,3,1.16
+Body Lotion,2026-10-04,3,1.16
+Notebook,2026-09-28,2,2.62
+Notebook,2026-09-29,6,2.62
+Notebook,2026-09-30,4,2.62
+Notebook,2026-10-01,4,2.62
+Notebook,2026-10-02,4,2.62
+Notebook,2026-10-03,3,2.62
+Notebook,2026-10-04,4,2.62
+Pen Pack,2026-09-28,4,1.83
+Pen Pack,2026-09-29,4,1.83
+Pen Pack,2026-09-30,4,1.83
+Pen Pack,2026-10-01,6,1.83
+Pen Pack,2026-10-02,4,1.83
+Pen Pack,2026-10-03,7,1.83
+Pen Pack,2026-10-04,6,1.83
+Pencil Pack,2026-09-28,4,2.25
+Pencil Pack,2026-09-29,4,2.25
+Pencil Pack,2026-09-30,4,2.25
+Pencil Pack,2026-10-01,5,2.25
+Pencil Pack,2026-10-02,4,2.25
+Pencil Pack,2026-10-03,5,2.25
+Pencil Pack,2026-10-04,6,2.25
+Marker,2026-09-28,3,1.68
+Marker,2026-09-29,3,1.68
+Marker,2026-09-30,2,1.68
+Marker,2026-10-01,3,1.68
+Marker,2026-10-02,3,1.68
+Marker,2026-10-03,4,1.68
+Marker,2026-10-04,4,1.68
+USB Cable,2026-09-28,2,2.04
+USB Cable,2026-09-29,1,2.04
+USB Cable,2026-09-30,2,2.04
+USB Cable,2026-10-01,2,2.04
+USB Cable,2026-10-02,1,2.04
+USB Cable,2026-10-03,2,2.04
+USB Cable,2026-10-04,3,2.04
+Phone Charger,2026-09-28,2,1.14
+Phone Charger,2026-09-29,3,1.14
+Phone Charger,2026-09-30,2,1.14
+Phone Charger,2026-10-01,1,1.14
+Phone Charger,2026-10-02,2,1.14
+Phone Charger,2026-10-03,2,1.14
+Phone Charger,2026-10-04,1,1.14
+Earphones,2026-09-28,3,1.08
+Earphones,2026-09-29,3,1.08
+Earphones,2026-09-30,1,1.08
+Earphones,2026-10-01,1,1.08
+Earphones,2026-10-02,2,1.08
+Earphones,2026-10-03,2,1.08
+Earphones,2026-10-04,3,1.08
+Power Bank,2026-09-28,1,0.84
+Power Bank,2026-09-29,1,0.84
+Power Bank,2026-09-30,1,0.84
+Power Bank,2026-10-01,1,0.84
+Power Bank,2026-10-02,1,0.84
+Power Bank,2026-10-03,2,0.84
+Power Bank,2026-10-04,2,0.84
+LED Bulb,2026-09-28,2,1.32
+LED Bulb,2026-09-29,2,1.32
+LED Bulb,2026-09-30,2,1.32
+LED Bulb,2026-10-01,2,1.32
+LED Bulb,2026-10-02,1,1.32
+LED Bulb,2026-10-03,2,1.32
+LED Bulb,2026-10-04,2,1.32
+Extension Board,2026-09-28,1,0.8
+Extension Board,2026-09-29,1,0.8
+Extension Board,2026-09-30,2,0.8
+Extension Board,2026-10-01,2,0.8
+Extension Board,2026-10-02,1,0.8
+Extension Board,2026-10-03,1,0.8
+Extension Board,2026-10-04,2,0.8
+Water Bottle,2026-09-28,3,1.55
+Water Bottle,2026-09-29,3,1.55
+Water Bottle,2026-09-30,4,1.55
+Water Bottle,2026-10-01,3,1.55
+Water Bottle,2026-10-02,3,1.55
+Water Bottle,2026-10-03,3,1.55
+Water Bottle,2026-10-04,4,1.55
+Lunch Box,2026-09-28,2,0.9
+Lunch Box,2026-09-29,1,0.9
+Lunch Box,2026-09-30,2,0.9
+Lunch Box,2026-10-01,2,0.9
+Lunch Box,2026-10-02,2,0.9
+Lunch Box,2026-10-03,2,0.9
+Lunch Box,2026-10-04,3,0.9
+T-Shirt,2026-09-28,2,1.26
+T-Shirt,2026-09-29,3,1.26
+T-Shirt,2026-09-30,3,1.26
+T-Shirt,2026-10-01,3,1.26
+T-Shirt,2026-10-02,2,1.26
+T-Shirt,2026-10-03,2,1.26
+T-Shirt,2026-10-04,3,1.26
+Jeans,2026-09-28,2,1.18
+Jeans,2026-09-29,1,1.18
+Jeans,2026-09-30,2,1.18
+Jeans,2026-10-01,1,1.18
+Jeans,2026-10-02,2,1.18
+Jeans,2026-10-03,1,1.18
+Jeans,2026-10-04,2,1.18
+Socks,2026-09-28,3,1.7
+Socks,2026-09-29,2,1.7
+Socks,2026-09-30,3,1.7
+Socks,2026-10-01,3,1.7
+Socks,2026-10-02,3,1.7
+Socks,2026-10-03,4,1.7
+Socks,2026-10-04,3,1.7
+Cap,2026-09-28,2,1.04
+Cap,2026-09-29,2,1.04
+Cap,2026-09-30,1,1.04
+Cap,2026-10-01,1,1.04
+Cap,2026-10-02,1,1.04
+Cap,2026-10-03,1,1.04
+Cap,2026-10-04,2,1.04
+Battery Pack,2026-09-28,4,1.41
+Battery Pack,2026-09-29,3,1.41
+Battery Pack,2026-09-30,3,1.41
+Battery Pack,2026-10-01,2,1.41
+Battery Pack,2026-10-02,2,1.41
+Battery Pack,2026-10-03,4,1.41
+Battery Pack,2026-10-04,3,1.41
+Torch,2026-09-28,1,0.61
+Torch,2026-09-29,1,0.61
+Torch,2026-09-30,2,0.61
+Torch,2026-10-01,2,0.61
+Torch,2026-10-02,2,0.61
+Torch,2026-10-03,2,0.61
+Torch,2026-10-04,2,0.61
+Umbrella,2026-09-28,2,1.44
+Umbrella,2026-09-29,2,1.44
+Umbrella,2026-09-30,2,1.44
+Umbrella,2026-10-01,2,1.44
+Umbrella,2026-10-02,2,1.44
+Umbrella,2026-10-03,1,1.44
+Umbrella,2026-10-04,1,1.44
+Backpack,2026-09-28,1,1.43
+Backpack,2026-09-29,2,1.43
+Backpack,2026-09-30,1,1.43
+Backpack,2026-10-01,2,1.43
+Backpack,2026-10-02,2,1.43
+Backpack,2026-10-03,2,1.43
+Backpack,2026-10-04,2,1.43
